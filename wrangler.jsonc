@@ -1,0 +1,18 @@
+{
+  "name": "growthcrestai-proxy",
+  "main": "Worker.js",
+  "compatibility_date": "2026-05-07",
+  "workers_dev": true,
+
+  "vars": {
+    // "ANTHROPIC_API_KEY": "your-api-key-here"
+  }
+
+  // Optional for custom domain
+  // "routes": [
+  //   {
+  //     "pattern": "api.growthcrestai.com/*",
+  //     "zone_id": "your-zone-id"
+  //   }
+  // ]
+}

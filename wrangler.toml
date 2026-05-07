@@ -1,0 +1,14 @@
+name = "growthcrestai-proxy"
+main = "Worker.js"
+compatibility_date = "2026-05-07"
+
+# Enable workers.dev deployment
+workers_dev = true
+
+# Environment variables (DO NOT put real key here in production)
+[vars]
+# ANTHROPIC_API_KEY = "your-api-key-here"
+
+# Optional: if you later bind a custom domain
+# route = "api.growthcrestai.com/*"
+# zone_id = "your-zone-id"
